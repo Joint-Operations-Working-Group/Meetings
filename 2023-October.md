@@ -5,7 +5,8 @@
 
 1. Virtual Unconference for DEI in Research
 2. PyData Eindhoven / JuliaCon Local Eindhoven 2023
-3. Upcoming R Meetups
+3. Ghana R Conference (March 2024)
+4. Upcoming R Meetups
    
 ------------------------------------------
 #### 1. Virtual unconference on The Impact of Diversity on Research Quality
@@ -28,7 +29,18 @@
   - LinkedIn Page: https://www.linkedin.com/company/julialang-eindhoven/
 
 ------------------------------------------
-#### 3. Upcoming R Meetups
+
+#### 4. Ghana R Conference
+
+* The conference is to be held in Kwame Nkrumah University of Science and Technology, Kumasi – Ghana from March 18 – 20, 2024.
+* The Conference is organized exclusively to project the R soŌware as the soŌware of choice for database management, data visualizaƟon and data mining and data science in Ghana.
+* The webpage of the group, sƟll under development provides informaƟon on what the Community does and with R.
+* To finance the conference and bootcamp, individual aƩendees will raise money to get their accommodaƟon, they will pay for their own meals and travel and transport. Ghana R is soliciƟng funds to co-finance other acƟviƟes.
+* Experts in R would be invited to submit abstracts on talks based on the theme of the Conference. Notable keynote speakers are: Kevin O’Brien, Lluis Sancho, John Blischak,
+Friedrich Leisch, Dr Riinu Pius, Dr JusƟce Aheto (University of Ghana, Accra), Dr Eric Wiah (University of Mines, Ghana), Dr P A Agbodza (Ghana R), Dr Johannes Klotz, Laurent Smeets, Dr Esi Eghan (Ghana).
+
+------------------------------------------
+#### 4. Upcoming R Meetups
 
 * Berlin R User Group - Tuesday 24th October 
 https://www.meetup.com/berlin-r-users-group/events/296352038/attendees/
