@@ -2,6 +2,7 @@
 
 * Online at 7am and 7pm UTC on First Monday of every month
 * Scope: R, Pydata, Julia and Open Source GIS
+----------------------------------------------------------
 
 1. Virtual Unconference for DEI in Research
 2. PyData Eindhoven / JuliaCon Local Eindhoven 2023
@@ -47,3 +48,11 @@ https://www.meetup.com/berlin-r-users-group/events/296352038/attendees/
 
 * Dublin R - Saturday 11th November in Limerick
 https://www.meetup.com/dublinr/events/296577394/
+
+***Planned Dublin R Meetups***
+These topics have been very popular with Kevin O'Brien's employers
+* Working with documents using PDF tools / dodonv / staplr. 
+* Spatial tools such as the {sf} R package 
+* database tools working DBI and {dbplyr] 
+* Systems tools for example working with files and folders. 
+
