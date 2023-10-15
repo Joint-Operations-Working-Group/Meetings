@@ -14,6 +14,7 @@
 5. London R
 6. Hiatus of the Why R? Foundation 
 7. Live Audio Transcription Software
+8. Upcoming R Meetups
 
 ----------------------------------------
 
@@ -86,3 +87,12 @@ As organisers of R meetup groups our aim is to offer our members the opportunity
 #### 7. Live Audio Transcription Software
 
 * Query:  Can the quality of live captioning be improved by providing a list of "custom words" - i.e. technical words and acronyms.
+
+------------------------------------------
+#### 8. Upcoming R Meetups
+
+* Berlin R User Group - Tuesday 24th October 
+https://www.meetup.com/berlin-r-users-group/events/296352038/attendees/
+
+* Dublin R - Saturday 11th November in Limerick
+https://www.meetup.com/dublinr/events/296577394/
