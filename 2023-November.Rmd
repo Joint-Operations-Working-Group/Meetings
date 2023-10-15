@@ -1,0 +1,38 @@
+### November Meeting Notes
+
+* Online at 7am and 7pm UTC 
+
+
+#### Agenda
+
+1. Global R User Group Meetup
+2. R User Community Linkedin Page
+3. UseR! 2024 Conference Salzburg
+4. London R
+
+#### 1. Global R User Groups
+
+Website: https://www.meetup.com/globalr/
+
+Global R User Group is dedicated for organisers and co-organisers of R meetup groups in order to bring them together. 
+This allows us as organisers to share event information between us which then enables us to inform our individual local groups that we manage.
+As organisers of R meetup groups our aim is to offer our members the opportunity to attend online events about the R programming language that are taking place around the world. Our goal is for our members to have more opportunities to share their experiences using R as well as support the global R community.
+
+#### 2. R User Community LinkedIn Page
+
+* Link: https://www.linkedin.com/company/37901993
+* 16,000 followers as of October 2023
+* Aggregator for R community events (Workshops, Conferences and Meetups)
+* Allows the R community to rely less on twitter for community building
+* For Global South, the curatorial policy is more flexible, and can extend to job postings
+
+#### 3. UseR! Conference
+
+* useR! 2024 will be a hybrid conference from July 8 to July 11, with opportunities to participate as an online attendee or to attend in person at Wyndham Grand, Salzburg, Austria. 
+
+#### 4. London R
+
+* London R was the flagship of the R User Group network in Europe
+* Since the acquisition of Mango Solutions, London R has been run by Ascent
+* The last meetup took place in June 2022 at LSBU in Elephant & Castle
+* London R is seen to be be defunct
