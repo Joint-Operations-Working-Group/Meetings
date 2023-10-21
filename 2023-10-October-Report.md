@@ -13,6 +13,8 @@
 3. Ghana R Conference (March 2024)
 4. Canva - Tool for Graphics Design
 5. Upcoming R Meetups
+6. SatRdays
+
    
 ------------------------------------------
 #### 1. Virtual unconference on The Impact of Diversity on Research Quality
@@ -66,5 +68,11 @@ These topics have been very popular with Kevin O'Brien's employers
 * Working with documents using PDF tools / dodonv / staplr. 
 * Spatial tools such as the {sf} R package 
 * database tools working DBI and {dbplyr] 
-* Systems tools for example working with files and folders. 
+* Systems tools for example working with files and folders.
+
+------------------------------------------
+#### 6. SatRdays
+
+------------------------------------------
+#### 7. Julia Inclusive
 
