@@ -2,6 +2,10 @@
 
 * Online at 7am and 7pm UTC on First Monday of every month
 * Scope: R, Pydata, Julia and Open Source GIS
+* The following is a compilation of exchanges and conversations regarding Open Source Tech Communities that took place in October 2023.
+* For the purposes of forwards compatability. they reported as minutes for meetings, so that they can be used, inspected and referenced by subsequent meetings.
+* The purpose of this is to retain institutional memory and promote collaboration and  knowledge sharing within open source communities.
+
 ----------------------------------------------------------
 
 1. Virtual Unconference for DEI in Research
