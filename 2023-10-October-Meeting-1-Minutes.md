@@ -71,8 +71,3 @@ These topics have been very popular with Kevin O'Brien's employers
 * Systems tools for example working with files and folders.
 
 ------------------------------------------
-#### 6. SatRdays
-
-------------------------------------------
-#### 7. Julia Inclusive
-
