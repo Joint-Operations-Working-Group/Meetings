@@ -13,8 +13,6 @@
 3. Ghana R Conference (March 2024)
 4. Canva - Tool for Graphics Design
 5. Upcoming R Meetups
-6. SatRdays
-
    
 ------------------------------------------
 #### 1. Virtual unconference on The Impact of Diversity on Research Quality
