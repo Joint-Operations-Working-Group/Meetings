@@ -1,4 +1,16 @@
 
+### Master Logos
+
+* Master Logo and Branding confirmed in November 2025
+
+---------------------------------------------
+
+### Mastodon and Bluesky
+
+* Steven Kell is confirm status of "1Password" accounts
+* Apropos of Heidi Seibold - propose greater use of Buffer this year.
+* SK to check that Master Branding and Logo are on this platforms
+
 ---------------------------------------------
 
 ###  UseR! Conference LinkedIn Page
@@ -14,7 +26,10 @@
   -  Przemyslaw Biecek (user! 2026 Chair)
   -  Imani Oluwafumilayo Maliti 
 
+ * Previous Task: addition of new admins (PB and IOM)
  * Remark - KOB to confer with HT about updating list 
+
+---------------------------------------------
 
 ### Meta Social Media Platforms (Instagram and Facebook)
 
