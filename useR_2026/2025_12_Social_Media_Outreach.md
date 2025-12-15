@@ -9,7 +9,9 @@ Aspect ratio for images
 
 Use of Alt-text (AI generated is fine)
 
-Inventory of Social media Assets
+------------------------------------------------------------
+
+### Inventory of Social media Assets
 
 Password Manager 
 
@@ -18,6 +20,8 @@ Buffer - Scheduling Posts
 Bluesky - Updates (banner)
 
 Mastodon - check on status
+
+-----------------------------------------------------
 
 Instagram - just set up (instagram.com/user.conference)
 
