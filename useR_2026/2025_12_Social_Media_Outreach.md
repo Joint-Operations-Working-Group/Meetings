@@ -1,7 +1,10 @@
 
-### Master Logos
+
+### Master Logos, Branding & Visual Identities
 
 * Master Logo and Branding confirmed in November 2025
+* Request for Webcards to be made for promotional drive for CFP and Sponsorship
+ - Task: Revert to Hanna Piotrowska
 
 ---------------------------------------------
 
@@ -36,3 +39,15 @@
 * KOB has set up an Instagram page - www.instagram.com/user.conference
 * KOB had attempted to rename a defunct Facebook page to be the Faceboo analogue of this IG page, but name-changing is now very difficult.
 * Best plan is to start a new company page from the beginning
+
+--------------------------------------------------------------------
+
+### Provisional Conference Attendence
+
+* KOB is highly probable
+* SK intends to go, but dependent on career trajectory
+* DS - TBC
+* IOM - TBC
+* PB and KS are local.
+* HT is highly probable
+
