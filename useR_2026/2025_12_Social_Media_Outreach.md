@@ -1,76 +1,13 @@
 
+### Sponsorship Brochure
 
+Proposed Layout: https://open.substack.com/pub/kobriendublin/p/user-2026-conference-sponsorship
 Agenda Items:
 
-
-Write Up of Best Practice for Linkedin Posts
-
-Aspect ratio for images
-
-Use of Alt-text (AI generated is fine)
-
-------------------------------------------------------------
-
-### Inventory of Social media Assets
-
-Password Manager 
-
-Buffer - Scheduling Posts
-
-Bluesky - Updates (banner)
-
-Mastodon - check on status
-
------------------------------------------------------
-
-Instagram - just set up (instagram.com/user.conference)
-
-Meta Business Suite
-
-
-Specific values to showcase (to entire audience)
-
-Positive, laid-back environment where folks can collaborate, innovate, etc. 
-
-Specific values to showcase (to sponsors)
-
-Community of experienced professionals; senior level 
-
-URGENT: Sponsorship Brochure
-
-8 Page Document
-
-
-
-Content management 
-
-Mastodon/BSky first/second drafts of posts → refine them then post on LinkedIn 
-
-
-Action items
-
-untickedSponsorship brochure – Kevin to share a draft with everyone for us to give feedback on 
-untickedLinkedIn; everyone follow both pages and Kevin ensure we’re all managers 
-tickedSteven; create a password manager for all social media platforms, other than Instagram 
-We have one. Let me know what you want access to and I will share login info for those platforms.
-
-untickedKevin to organize the Instagram via the Meta Business Suite (Imani able to support) 
-untickedImani to brainstorm ideas for cultivating community via social media 
-Steven to compile list of previous sponsors from 2025 and 2024 for direct outreach 
-
-
-
----------------------------------------------------------------------------
-
-### Conference Photos 
-
-* https://photos.app.goo.gl/mMQfYsdHH3XLpp1H9
-
-* useR! 2026 social media assets - Google Photos
-
-* Other Photos from Duke (staff taken)
-
-* Other Photos from 2024 Salzburg
+#### Tasks:
+* Confirm the local sponsorship coordinator
+* Must be based in Poland to manage payments and provide direct liaison with Sponsors
+* Be able to provide venue details (e.g location of sponsor booths in conference venue)
 
 -------------------------------------------------------------------------------------
 
@@ -78,7 +15,30 @@ Steven to compile list of previous sponsors from 2025 and 2024 for direct outrea
 
 * Master Logo and Branding confirmed in November 2025
 * Request for Webcards to be made for promotional drive for CFP and Sponsorship
- - Task: Revert to Hanna Piotrowska
+ - Task: Revert to Hanna Piotrowska  
+
+#### Webcards
+
+* Promoting Sponsorship on LinkedIn
+* Currently using AI generated Web Cards - but proper webcards are needed
+
+------------------------------------------------------------
+
+### Inventory of Social media Assets
+
+* Password Manager 
+* Buffer - Scheduling Posts
+* Bluesky - Updates (banner)
+* Mastodon - check on status
+
+-----------------------------------------------------
+
+### Conference Photos 
+
+* https://photos.app.goo.gl/mMQfYsdHH3XLpp1H9
+* useR! 2026 social media assets - Google Photos
+* Other Photos from Duke (staff taken)
+* Other Photos from 2024 Salzburg (social media)
 
 ---------------------------------------------
 
@@ -119,7 +79,9 @@ Steven to compile list of previous sponsors from 2025 and 2024 for direct outrea
 ### Other Social Media Assets
 
 * R User Community LinkedIn Page (21,000)
-* Why R? LinkedIn 5,500  
+* Why R? LinkedIn 5,500
+* Why R? Facebook page 2,200
+* Data Scientists Ireland 760
 
 --------------------------------------------------------------------
 
