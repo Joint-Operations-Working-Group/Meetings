@@ -1,8 +1,11 @@
 
+## Agenda Items:
+
+---------------------------------------------------------------------------------
+
 ### Sponsorship Brochure
 
 Proposed Layout: https://open.substack.com/pub/kobriendublin/p/user-2026-conference-sponsorship
-Agenda Items:
 
 #### Tasks:
 * Confirm the local sponsorship coordinator
